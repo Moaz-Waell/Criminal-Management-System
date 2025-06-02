@@ -1,0 +1,222 @@
+MISDEMEANOR
+2024-11-20
+DRUGS
+A physical altercation occurred outside a mall in Nasr City.
+Sara Mohamed
+29503020104567
+Nasr City, Cairo
+29
+Female
+01098765432
+Lieutenant
+Youssef Adel
+30101020104567
+Nasr City, Cairo
+40
+Male
+01112345678
+The suspect attacked me after a verbal argument.
+Mariam Hassan
+30007120103456
+Nasr City, Cairo
+35
+Female
+01234567890
+I witnessed the argument escalate into a physical fight.
+Khaled Ahmed
+29805120101234
+Nasr City, Cairo
+38
+Male
+01076543210
+The suspect was wearing a white shirt and blue jeans.
+MISDEMEANOR
+2024-12-01
+ROBBERY
+A bank robbery occurred in Sidi Gaber, Alexandria.
+Hassan Mostafa
+29705170106789
+Sidi Gaber, Alexandria
+27
+Male
+01267890123
+Captain
+Fatma Nabil
+30101120107890
+Sidi Gaber, Alexandria
+50
+Female
+01123456789
+I was in the bank when the suspect entered with a weapon.Ali Tarek
+29912150104567
+Sidi Gaber, Alexandria
+45
+Male
+01298765432
+I saw the suspect fleeing with a bag of money.
+Ahmed Hossam
+30007230102345
+Sidi Gaber, Alexandria
+36
+Male
+01134567890
+The suspect had a mask and carried a small pistol.
+MISDEMEANOR
+2024-11-18
+DRUGS
+A suspect was caught selling illegal substances in Maadi.
+Aya Khaled
+29912210101234
+Maadi, Cairo
+25
+Female
+01076543210
+Lieutenant
+Omar Saleh
+30009120105678
+Maadi, Cairo
+30
+Male
+01265478901
+I saw the suspect selling drugs near my building.
+Heba Ahmed
+30103210107890
+Maadi, Cairo
+28
+Female
+01023456789
+The suspect was interacting with a group of teenagers suspiciously.
+Karim Nabil
+29908130106789
+Maadi, Cairo
+34
+Male
+01156789012
+The suspect was carrying small packets in a backpack.
+MISDEMEANOR
+2024-12-03
+DRUGS
+A homicide occurred in a residential building in 6th of October City.
+Ahmed Youssef
+29801150102345
+6th of October City, Giza
+35
+Male
+01234567890
+Captain
+Laila Ibrahim
+30002210108976
+6th of October City, Giza
+29
+Female
+01112389012
+I found the victim unresponsive in the hallway.
+Mohamed Ali
+29911130106789
+6th of October City, Giza
+45
+Male
+01256789043
+I saw the suspect leaving the building shortly before the incident.
+Omar Fathy
+30006170101234
+6th of October City, Giza
+37
+Male
+01098765432
+The suspect had a black jacket and appeared agitated.
+MISDEMEANOR
+2024-12-05
+FRAUD
+A case of online fraud reported in Heliopolis, Cairo.
+Omar Ali
+29608290105678
+Giza
+28
+Male
+01145678901
+Major
+Noor Ahmed
+30101230108900
+Heliopolis, Cairo
+32
+Female
+01012398765
+I transferred money for a product but never received it.
+Mona Hossam
+30010150106789
+Heliopolis, Cairo
+35
+Female
+01165432198
+I had a similar experience with the same website.Hany
+Tamer
+29908170104567
+Heliopolis, Cairo
+30
+Male
+01034567890
+The suspect communicated via email and used a fake website.
+MISDEMEANOR
+2024-12-02
+DRUGS
+crime details
+Ahmed Youssef
+29801150102345
+6th of October City, Giza
+35
+Male
+01234567890
+Captain
+shahd
+1234556
+mokattam 
+20
+female
+123456789
+saw him taking drugs
+madoosh
+128391
+tagamooa
+20
+female
+545363545
+saw him taking drugs
+moaz
+3242342
+abasya
+20
+male
+09329312
+mesh bynaam
+MISDEMEANOR
+2030-11-25
+DRUGS
+a3ded 7a4e4
+Omar Ali
+29608290105678
+Giza
+28
+Male
+01145678901
+Student moaz
+1234
+nasr
+20
+male
+012345448
+d7ko 3lyah
+radwa
+21512
+nasr
+18
+female
+012654645
+witness statment
+shahd
+12234
+mokk
+20
+female
+01234545
+osyer

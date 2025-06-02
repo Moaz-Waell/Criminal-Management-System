@@ -1,0 +1,42 @@
+Ahmed Youssef
+29801150102345
+6th of October City, Giza
+35
+Male
+00000000
+Captain
+Sara Mohamed
+29503020104567
+Nasr City, Cairo
+29
+Female
+01098765432
+Lieutenant
+Mohamed Tarek
+30102250109876
+Mansoura, Dakahlia
+23
+Male
+01112345678
+Sergeant
+Aya Khaled
+29912210101234
+Maadi, Cairo
+25
+Female
+01076543210
+Lieutenant
+Hassan Mostafa
+29705170106789
+Sidi Gaber, Alexandria
+27
+Male
+01267890123
+Captain
+Omar Ali
+29608290105678
+Giza
+28
+Male
+01145678901
+Captain
